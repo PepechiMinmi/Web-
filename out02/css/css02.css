@@ -1,0 +1,58 @@
+/*hereヘッダー*/
+header{
+    width: 100%;
+    height: 80px; 
+    background-color:#00CCCC;
+    /*font-size: 15px;*/
+    /*text-align: left;*/
+    /*align-items: center;*/
+    padding: 50px 0;
+    /*position:fixed;*/
+    
+
+}
+
+.subTitle{
+    text-align: center;
+}
+
+
+/*endヘッダー*/
+
+
+.lineBlank{
+    line-height: 25px;
+}
+
+
+.flex {
+	display: flex;
+	justify-content: center;
+}
+
+li{
+    list-style-type: disclosure-closed;
+}
+
+.pClass1{
+    margin-bottom: 100px;
+}
+
+.pClass2{
+    margin-bottom: 50px;
+}
+
+/*hereフッター*/
+footer{
+    width: 100%;
+    height: 80px; 
+    font-size: 15px;
+    padding: 50px 0;
+    /*position:static;*/
+    background:#00CCCC;
+}
+
+.AuthorInfo{
+    text-align: center;
+}
+/*endフッター*/
